@@ -1,1 +1,1 @@
-### See Live Demo: https://node-angular-mongo.herokuapp.com/bookStore/home
+### See Live Demo: https://node-angular-mongo.herokuapp.com
